@@ -27,3 +27,6 @@ kagglehub
 
 # iWidgets
 ipywidgets
+
+# Locust
+locust
